@@ -1,3 +1,5 @@
+/** MIKIR DEWE COK by SH **/
+
 function gasken() {
 	var permalink = window.location.pathname;
 	if (permalink.includes("/item/")) {
